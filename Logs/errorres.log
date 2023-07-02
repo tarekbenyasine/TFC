@@ -1,0 +1,34 @@
+jun 04, 2023 1:03:37 P. M. tfc.Aniadir jButtonaniadirPuestoActionPerformed
+SEVERE: Ocurrió un error: [SQLITE_ERROR] SQL error or missing database (near ")": syntax error)
+jun 04, 2023 1:42:25 P. M. tfc.Usuarios jButtonModificarActionPerformed
+SEVERE: Ocurrió un error: [SQLITE_ERROR] SQL error or missing database (no such column: id_usuario)
+jun 04, 2023 1:45:33 P. M. tfc.Usuarios jButtonModificarActionPerformed
+SEVERE: Ocurrió un error: [SQLITE_ERROR] SQL error or missing database (no such column: planta)
+jun 04, 2023 2:02:30 P. M. tfc.VentanaPrincipal jButtonFiltrarActionPerformed
+SEVERE: Ocurrió un error: column 0 out of bounds [1,6]
+jun 04, 2023 2:03:08 P. M. tfc.VentanaPrincipal jButtonFiltrarActionPerformed
+SEVERE: Ocurrió un error: column 0 out of bounds [1,6]
+jun 04, 2023 2:03:14 P. M. tfc.VentanaPrincipal jButtonFiltrarActionPerformed
+SEVERE: Ocurrió un error: column 0 out of bounds [1,6]
+jun 04, 2023 2:03:17 P. M. tfc.VentanaPrincipal jButtonFiltrarActionPerformed
+SEVERE: Ocurrió un error: column 0 out of bounds [1,6]
+jun 04, 2023 3:02:28 P. M. tfc.EliminarPuesto jButton1ActionPerformed
+SEVERE: Ocurrió un error: Cannot invoke "String.isEmpty()" because "idPuesto" is null
+jun 04, 2023 3:03:58 P. M. tfc.EliminarPuesto jButton1ActionPerformed
+SEVERE: Ocurrió un error: Cannot invoke "String.equals(Object)" because "idPuesto" is null
+jun 04, 2023 3:04:37 P. M. tfc.EliminarPuesto jButton1ActionPerformed
+SEVERE: Ocurrió un error: Cannot invoke "String.equals(Object)" because "idPuesto" is null
+jun 04, 2023 4:50:53 P. M. tfc.AniadirMarca jButton1ActionPerformed
+SEVERE: Ocurrió un error: [SQLITE_ERROR] SQL error or missing database (no such column: falsa)
+jun 04, 2023 4:51:01 P. M. tfc.AniadirTipoDispositivo jButton1ActionPerformed
+SEVERE: Ocurrió un error: [SQLITE_ERROR] SQL error or missing database (no such column: falsa3)
+jun 04, 2023 4:54:10 P. M. tfc.AniadirTipoDispositivo jButton1ActionPerformed
+SEVERE: Ocurrió un error: [SQLITE_ERROR] SQL error or missing database (no such table: Tipo_Dispositivo)
+jun 04, 2023 4:56:03 P. M. tfc.EliminarMarca jButton1ActionPerformed
+SEVERE: Ocurrió un error: [SQLITE_ERROR] SQL error or missing database (no such column: id_tipo)
+jun 04, 2023 4:57:11 P. M. tfc.EliminarMarca jButton1ActionPerformed
+SEVERE: Ocurrió un error: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: Marca.id_marca)
+jun 04, 2023 4:58:30 P. M. tfc.EliminarMarca jButton1ActionPerformed
+SEVERE: Ocurrió un error: [SQLITE_CONSTRAINT_PRIMARYKEY] A PRIMARY KEY constraint failed (UNIQUE constraint failed: Marca.id_marca)
+jun 06, 2023 10:48:39 P. M. tfc.Aniadir jButtonaniadirPuestoActionPerformed
+SEVERE: Ocurrió un error: [SQLITE_ERROR] SQL error or missing database (unrecognized token: "3fdsdsf")
